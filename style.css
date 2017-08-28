@@ -1,0 +1,27 @@
+#mainHeader
+{
+	text-align: center;
+	background-color: #97dded;
+	width: 100%;
+	border-bottom: 1px solid #adadad;
+}
+
+#global 
+{
+	min-height: 100%;
+	width: 70%;
+	margin: auto;
+	text-align: justify;
+	padding: 5px 20px;
+}
+
+#contenu
+{
+	max-width: 50%;
+	margin: auto;
+}
+
+form 
+{
+	display: table;
+}
